@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "dependencies": {
+    "koa-bodyparser": "^4.2.1",
+    "koa-json": "^2.0.2",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0",
+    "koa2": "^2.0.0-alpha.7",
+    "koa2-cors": "^2.0.6",
+    "mockjs": "^1.0.1-beta3",
+    "nodemon": "^1.18.3"
+  }
+}
